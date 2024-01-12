@@ -1,6 +1,6 @@
 # webpages-to-pdf
 
-Downloads webpages supplied to function `run` as string array and outputs them in the folder `/output`, then it merges them in the root folder as `merged.pdf`.
+Downloads webpages supplied to function `run` as string array and outputs them in the folder `/output`, then it merges them in the root folder as `merged.pdf`.<br>
 Webpages are loaded with Puppeteer to support dynamic pages.
 
 ## Install & Run
