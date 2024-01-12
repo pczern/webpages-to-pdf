@@ -1,0 +1,6 @@
+output
+node_modules
+!output/.gitkeep
+_*
+merged.pdf
+.DS_Store

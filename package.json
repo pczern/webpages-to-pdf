@@ -1,0 +1,21 @@
+{
+  "name": "webpages-to-pdf",
+  "version": "0.0.1",
+  "description": "Download PDFs from webpages and merge them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Philipp Czernitzki",
+    "email": "philip@czer.eu",
+    "url": "https://czer.eu"
+  },
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^21.7.0"
+  }
+}
